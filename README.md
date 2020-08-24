@@ -1,13 +1,13 @@
 ### Olá amigos! 👋
 ✅ Sou um Design UI/UX e Front-End Developer ✅   
 
-<img align="right" height="200" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
 
 - 🚀 Buscando novos desafios.   
 - ⚡  Buscando colaborar com projetos desafiadores.   
 - 💻 Minha stack: HTML, CSS e JavaScript.   
 - 📘 Estudando FrontEnd em <a href="https://www.origamid.com/cursos/">Origamid's</a>   
-- 💬 Sobre mim: Gosto de tecnologias e de pensar em ideias empreendedoras.   
+- 💬 Sobre mim: Gosto de aprender tecnologias novas e sempre está inovando minha pull de stacks   
 - 📫 danilopolastri.ti@gmail.com   
 
 <code><img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919827.svg"> </code>
