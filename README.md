@@ -6,7 +6,7 @@
 - 🚀 Buscando novos desafios.   
 - ⚡  Buscando colaborar com projetos desafiadores.   
 - 💻 Minha stack: HTML, CSS e JavaScript.   
-- 📘 Estudando FrontEnd em <a href="https://www.origamid.com/cursos/">Origamid's</a>   
+- 📘 Estudando FrontEnd em <a href="https://www.origamid.com/cursos/">Origamid</a>   
 - 💬 Sobre mim: Gosto de aprender tecnologias novas e sempre está inovando minha pull de stacks   
 - 📫 danilopolastri.ti@gmail.com   
 
