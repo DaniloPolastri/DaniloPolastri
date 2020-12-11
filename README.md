@@ -1,5 +1,5 @@
 ### Olá amigos! 👋
-✅ Sou um Design UI/UX e Front-End Developer ✅   
+✅ Sou  um Desenvolvedor Front-end amante do javascript!!!
 
 
 
