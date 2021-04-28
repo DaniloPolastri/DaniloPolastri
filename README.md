@@ -1,6 +1,5 @@
 ### Olá amigos! 👋
-✅ Sou  um Desenvolvedor Front-end amante do javascript!!!
-
+✅ Sou  um Desenvolvedor Full-Stack 
 
 
 - 🚀 Buscando novos desafios.   
