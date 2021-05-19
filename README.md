@@ -4,7 +4,7 @@
 
 - 🚀 Buscando novos desafios.   
 - ⚡  Buscando colaborar com projetos desafiadores.   
-- 💻 Minha stack: HTML, CSS, JavaScript e Java.   
+- 💻 Minha stack: HTML, CSS, TypeScript, JavaScript e Java.   
 - 📘 Estudando FrontEnd em <a href="https://www.origamid.com/cursos/">Origamid</a> e FullStack bootcamp Nelio com SpringBoot e React  
 - 💬 Sobre mim: Gosto de aprender tecnologias novas e sempre está inovando minha pull de stacks   
 - 📫 danilopolastri.ti@gmail.com   
