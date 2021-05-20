@@ -18,7 +18,7 @@
 <p align="center">
   <strong>Algumas redes sociais!</strong>
  <p align="center">
-  <a href="https://www.linkedin.com/in/danilo-polastri-235868188/" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leovdn"></a>  
+  <a href="https://www.linkedin.com/in/danilo-polastri-235868188/" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-polastri-235868188/"></a>  
   <a href="mailto:danilopolastri.ti@gmail.com" alt="Email"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilopolastri.ti@gmail.com"></a>  
   </p>
 </p>
