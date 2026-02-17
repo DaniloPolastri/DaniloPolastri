@@ -70,18 +70,6 @@ Full Stack Developer • Angular • Java • Spring Boot • Quarkus • AI Eng
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilopolastri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilopolastri&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 Streak Stats
 
 <p align="center">
@@ -165,4 +153,5 @@ I’m open to:
 - AI Engineering roles
 
 ---
+
 
