@@ -1,18 +1,96 @@
-### Olá amigos! 👋
-✅ Sou  um Desenvolvedor Full-Stack 
+<h1 align="center">Olá, eu sou o Danilo Polastri 👋</h1>
 
+<h3 align="center">🚀 Desenvolvedor Full-Stack | Angular • Java • Spring Boot • Quarkus • AI Engineering</h3>
 
-- 🚀 Buscando novos desafios.   
-- ⚡  Buscando colaborar com projetos desafiadores.   
-- 💻 Minha stack: HTML, CSS, TypeScript, JavaScript e Java.   
-- 📘 Estudando FrontEnd em <a href="https://www.origamid.com/cursos/">Origamid</a> e FullStack bootcamp Nelio com SpringBoot e React  
-- 💬 Sobre mim: Gosto de aprender tecnologias novas e sempre está inovando minha pull de stacks   
-- 📫 danilopolastri.ti@gmail.com   
+---
 
-<p align="center">
-  <strong>Algumas redes sociais!</strong>
- <p align="center">
-  <a href="https://www.linkedin.com/in/danilo-polastri-235868188/" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-polastri-235868188/"></a>  
-  <a href="mailto:danilopolastri.ti@gmail.com" alt="Email"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilopolastri.ti@gmail.com"></a>  
-  </p>
+## 👨‍💻 Sobre mim
+
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+💡 Especializado em **Angular e Java (Spring Boot e Quarkus)**  
+🤖 Atualmente me especializando em **Engenharia de AI Aplicada**  
+🚀 Buscando **novos desafios** e **projetos inovadores**  
+📚 Sempre aprendendo e evoluindo minhas habilidades  
+
+---
+
+## 🧠 Stack Principal
+
+### 🎨 Front-End
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3)
+
+---
+
+### ⚙️ Back-End
+
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000000?style=for-the-badge&logo=springboot)
+![Quarkus](https://img.shields.io/badge/-Quarkus-000000?style=for-the-badge&logo=quarkus)
+
+---
+
+### 🤖 AI & Modern Tech
+
+![AI](https://img.shields.io/badge/-Applied_AI-000000?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/-LLMs-000000?style=for-the-badge)
+![AI Engineering](https://img.shields.io/badge/-AI_Engineering-000000?style=for-the-badge)
+
+---
+
+## 🎯 Objetivos atuais
+
+- 🔥 Me especializando em **Engenharia de AI Aplicada**
+- 🚀 Criando sistemas modernos e escaláveis
+- 🤝 Aberto a **colaboração e oportunidades**
+
+---
+
+## 📚 Atualmente estudando
+
+📘 Origamid  
+📘 Bootcamp FullStack (Java, Spring Boot, React)
+
+---
+
+## 📫 Contato
+
+📧 **Email:**  
+danilopolastri.ti@gmail.com
+
+---
+
+## 🌎 Redes sociais
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/danilo-polastri-235868188/">
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+
+<a href="mailto:danilopolastri.ti@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>
+
+</p>
+
+---
+
+## ⚡ Frase
+
+> "Tecnologia é a ferramenta que transforma ideias em realidade."
+
+---
+
+## 📊 Stats
+
+<p align="left">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=danilopolastri&show_icons=true&theme=radical">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilopolastri&layout=compact&theme=radical">
+
 </p>
