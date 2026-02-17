@@ -80,16 +80,6 @@ Full Stack Developer • Angular • Java • Spring Boot • Quarkus • AI Eng
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/danilopolastri/danilopolastri/output/github-contribution-grid-snake.svg">
-
-</p>
-
----
-
 # 🌎 Connect with me
 
 <p align="left">
@@ -153,5 +143,6 @@ I’m open to:
 - AI Engineering roles
 
 ---
+
 
 
