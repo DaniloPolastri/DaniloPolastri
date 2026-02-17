@@ -49,13 +49,6 @@
 
 ---
 
-## 📚 Atualmente estudando
-
-📘 Origamid  
-📘 Bootcamp FullStack (Java, Spring Boot, React)
-
----
-
 ## 📫 Contato
 
 📧 **Email:**  
@@ -87,10 +80,8 @@ danilopolastri.ti@gmail.com
 
 ## 📊 Stats
 
-<p align="left">
+![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=danilopolastri&show_icons=true&theme=radical)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=danilopolastri&show_icons=true&theme=radical">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilopolastri&layout=compact&theme=radical)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilopolastri&layout=compact&theme=radical">
 
-</p>
