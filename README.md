@@ -1,82 +1,168 @@
-<h1 align="center">Olá, eu sou o Danilo Polastri 👋</h1>
+<!-- HEADER ANIMADO -->
+<h1 align="center">
+  Hi 👋, I'm Danilo Polastri
+</h1>
 
-<h3 align="center">🚀 Desenvolvedor Full-Stack | Angular • Java • Spring Boot • Quarkus • AI Engineering</h3>
+<h3 align="center">
+Full Stack Developer • Angular • Java • Spring Boot • Quarkus • AI Engineering
+</h3>
 
----
+<p align="center">
 
-## 👨‍💻 Sobre mim
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Angular+Specialist;Java+%7C+Spring+Boot+%7C+Quarkus;AI+Engineering+Student;Building+Scalable+Systems" />
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
-💡 Especializado em **Angular e Java (Spring Boot e Quarkus)**  
-🤖 Atualmente me especializando em **Engenharia de AI Aplicada**  
-🚀 Buscando **novos desafios** e **projetos inovadores**  
-📚 Sempre aprendendo e evoluindo minhas habilidades  
-
----
-
-## 🧠 Stack Principal
-
-### 🎨 Front-End
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3)
+</p>
 
 ---
 
-### ⚙️ Back-End
+# 🚀 About Me
 
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-000000?style=for-the-badge&logo=springboot)
-![Quarkus](https://img.shields.io/badge/-Quarkus-000000?style=for-the-badge&logo=quarkus)
+🎓 Degree in **Analysis and Systems Development**
 
----
+💻 Specialist in:
 
-### 🤖 AI & Modern Tech
+- Angular
+- Java
+- Spring Boot
+- Quarkus
 
-![AI](https://img.shields.io/badge/-Applied_AI-000000?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/-LLMs-000000?style=for-the-badge)
-![AI Engineering](https://img.shields.io/badge/-AI_Engineering-000000?style=for-the-badge)
+🤖 Currently specializing in:
 
----
+- Applied AI Engineering
+- LLM Applications
+- Intelligent Systems
 
-## 🎯 Objetivos atuais
-
-- 🔥 Me especializando em **Engenharia de AI Aplicada**
-- 🚀 Criando sistemas modernos e escaláveis
-- 🤝 Aberto a **colaboração e oportunidades**
+🔥 Focused on building **scalable and modern applications**
 
 ---
 
-## 📫 Contato
+# 🧠 Tech Stack
 
-📧 **Email:**  
-danilopolastri.ti@gmail.com
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css" />
+
+</p>
 
 ---
 
-## 🌎 Redes sociais
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring" />
+
+<img src="https://cdn.simpleicons.org/quarkus/4695EB" height="48"/>
+
+</p>
+
+---
+
+## AI / Tools / Infra
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,postgres,git,linux" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilopolastri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilopolastri&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Streak Stats
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=danilopolastri&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/danilopolastri/danilopolastri/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
+# 🌎 Connect with me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/danilo-polastri-235868188/">
-<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white">
+
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+
 </a>
 
 <a href="mailto:danilopolastri.ti@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+
 </a>
 
 </p>
 
 ---
 
-## ⚡ Frase
+# 👁 Visitor Counter
 
-> "Tecnologia é a ferramenta que transforma ideias em realidade."
+<p align="left">
 
+<img src="https://komarev.com/ghpvc/?username=danilopolastri&color=blue"/>
 
+</p>
 
+---
 
+# ⚡ Quote
+
+> Building the future with code and Artificial Intelligence.
+
+---
+
+# 🧠 Currently Learning
+
+- AI Engineering
+- LLM Applications
+- Advanced Angular
+- Microservices with Quarkus
+
+---
+
+# 🏆 Highlights
+
+✔ Full Stack Developer  
+✔ Angular Specialist  
+✔ Java Backend Specialist  
+✔ AI Engineering Student  
+
+---
+
+# 💼 Open to Work
+
+I’m open to:
+
+- Full Stack positions
+- Backend positions
+- AI Engineering roles
+
+---
 
