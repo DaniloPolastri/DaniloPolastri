@@ -76,17 +76,6 @@ danilopolastri.ti@gmail.com
 
 > "Tecnologia é a ferramenta que transforma ideias em realidade."
 
----
-
-## 📊 Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danilopolastri&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilopolastri&layout=compact&theme=tokyonight&cache_seconds=1800)
-
-</div>
 
 
 
